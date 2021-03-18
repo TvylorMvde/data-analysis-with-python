@@ -1,4 +1,5 @@
 data_analysis/
 .vscode/
-medical-data-visualizer/*ipynb
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
 medical-data-visualizer/*.ipynb
