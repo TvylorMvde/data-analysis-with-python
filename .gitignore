@@ -2,4 +2,4 @@ data_analysis/
 .vscode/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-medical-data-visualizer/*.ipynb
+*.ipynb
